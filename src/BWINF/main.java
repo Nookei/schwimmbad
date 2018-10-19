@@ -3,7 +3,7 @@ package BWINF;
 import java.util.ArrayList;
 
 /**
- * Created by 05021712 on 07.11.2017.
+ * @author Martin Beyer
  */
 public class main {
     int anzJugendliche;
